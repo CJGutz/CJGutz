@@ -1,16 +1,53 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="no">
 
-<!--
-**CJGutz/CJGutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vik fra meg</title>
+    <style>
+      div {
+    border-radius: 50%;
+}
 
-Here are some ideas to get you started:
+.ring {
+    width: 200px;
+    height: 200px;
+    /* background-color: rgb(255, 150, 150); */
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.prikk {
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    transform: translate(100%,100%);
+}
+    </style>
+</head>
+
+<body>
+    <script>
+      var bodyEl = document.querySelector("body");
+var ringEl = document.createElement("div");
+var prikkEl = document.createElement("div");
+var bredde = window.innerWidth;
+var hoyde = window.innerHeight;
+
+
+ringEl.addEventListener("mouseover", forsvinn)
+ringEl.className = "ring"
+prikkEl.className = "prikk"
+
+forsvinn();
+
+function forsvinn() {
+    ringEl.style.marginLeft = Math.random() * (bredde - 250) + "px"
+    ringEl.style.marginTop = Math.random() * (hoyde - 250) + "px"
+}
+
+ringEl.appendChild(prikkEl);
+bodyEl.appendChild(ringEl);
+    </script>
+</body>
+
+</html>
