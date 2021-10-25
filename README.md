@@ -1,6 +1,6 @@
 # Carl Gützkow
 
-### Member of<br> <br>
+### Member of<br>
 <img src="https://i.imgur.com/aBWMzBt.jpeg" width="20px"> <b>Index</b>
 <img src="https://imgur.com/m17DHsz.png" width="20px"> <b>Hackerspace</b>
 <img src="https://i.imgur.com/0uZKbkQ.png" width="40px"> <b>DHPS</b>
