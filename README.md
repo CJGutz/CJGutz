@@ -5,6 +5,7 @@
 ## Member of<br>
 <img src="https://i.imgur.com/aBWMzBt.jpeg" width="20px"> <b>Index</b>
 <img src="https://imgur.com/m17DHsz.png" width="20px"> <b>Hackerspace</b>
+<img src="https://i.imgur.com/ff6wloH.png" width="20px"> <b>Ei Solutions</b>
 
 ## Knowledge
 <img src="https://user-images.githubusercontent.com/70779496/143434087-2033b99d-a053-45cd-9264-5091a1badddd.png" width="75" height="75">                                        <img src="https://user-images.githubusercontent.com/70779496/143434121-217f64be-ab05-43c0-a8e5-42e712ad4baa.png" width="150" height="75">
@@ -14,11 +15,15 @@
 <img src="https://user-images.githubusercontent.com/70779496/143434184-88782f36-9dbd-4370-afa2-32730292ab4a.png" width="75" height="75">
 <img src="https://user-images.githubusercontent.com/70779496/143434200-90ed2aed-d75f-46d7-848e-2f2711e81318.png" width="50" height="75">
 <img src="https://user-images.githubusercontent.com/70779496/143434098-516679ff-56f0-4c1e-8809-ef4671151f37.png" width="75" height="75">
+<img src="https://i.imgur.com/OSZoBwr.png" width="75" height="75">
+
 
 
 ## Learning
-![image](https://user-images.githubusercontent.com/70779496/143433982-6aa7da52-2391-4aec-8fd5-282402c9f346.png)
-![image](https://user-images.githubusercontent.com/70779496/143434027-20ddc062-7548-4779-9190-0cdbb395b40a.png)
+Yes
+
+<br>
+<br>
 
 
 [![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJGutz&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/CJGutz/github-readme-stats)
