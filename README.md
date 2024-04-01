@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/ff6wloH.png" width="20px"> <b>Ei Solutions</b>
 
 ## Knowledge
-[![My Skills](https://skillicons.dev/icons?i=docker,django,postgres,python,ts,java,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,docker,rust,postgres,python,ts,java,nextjs,neovim,linux)](https://skillicons.dev)
 <img src="https://i.imgur.com/OSZoBwr.png" width="auto" height="50" >
 <img src="https://i.imgur.com/7nb0mlO.png" width="auto" height="50" >
 
