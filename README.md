@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=CJGutz&color=brightgreen&style=flat-square)
 
 ## Knowledge
-[![My Skills](https://skillicons.dev/icons?i=django,docker,rust,postgres,python,ts,java,nextjs,neovim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,docker,react,rust,postgres,python,ts,java,nextjs,neovim,linux,nginx)](https://skillicons.dev)
 <img src="https://i.imgur.com/OSZoBwr.png" width="auto" height="50" >
 <img src="https://i.imgur.com/7nb0mlO.png" width="auto" height="50" >
 
